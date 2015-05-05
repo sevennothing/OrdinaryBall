@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1366859941 source:/home/jun/Ordinary ball/src/CbaseBall.cpp
+	<iostream>
+	"CbaseBall.hpp"
+	<assert.h>
+
+1366863142 /home/jun/Ordinary ball/include/CbaseBall.hpp
+
+1366882036 source:/home/jun/Ordinary ball/src/CsampleSpace.cpp
+	"CsampleSpace.hpp"
+	<iostream>
+	<fstream>
+	<string.h>
+	<assert.h>
+
+1366881961 /home/jun/Ordinary ball/include/CsampleSpace.hpp
+	"CbaseBall.hpp"
+	"Cgame.hpp"
+	<list>
+
+1366881806 source:/home/jun/Ordinary ball/src/main.cpp
+	<iostream>
+	"CsampleSpace.hpp"
+	<assert.h>
+
+1366877641 /home/jun/Ordinary ball/include/Cgame.hpp
+	"CbaseBall.hpp"
+
+1366865077 source:/home/jun/Ordinary ball/src/Cgame.cpp
+	"Cgame.hpp"
+	<iostream>
+	<assert.h>
+
